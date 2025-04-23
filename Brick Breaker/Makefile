@@ -1,16 +1,3 @@
-################################################################################
-# These are variables for the GBA toolchain build
-# You can add others if you wish to
-# ***** YOUR NAME HERE *****
-################################################################################
-
-# The name of your desired GBA game
-# This should be a just a name i.e MyFirstGBAGame
-# No SPACES AFTER THE NAME.
-# Program Name
-# Makefile for Brick Breaker GBA Game
-
-# Makefile for Brick Breaker GBA Game
 
 # DevKitPro Paths
 DEVKITPRO = /opt/devkitpro
